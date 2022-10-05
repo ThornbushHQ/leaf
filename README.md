@@ -1,2 +1,0 @@
-# leaf
-React + TS + Tailwind
